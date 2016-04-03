@@ -23,7 +23,7 @@ var config = {
   watch: true,
   module: {
     loaders: [
-      { test: /\.tsx?$/, loaders: ['awesome-typescript-loader?tsconfig=tsconfig.json&useBabel&useCache'], include: appDir },
+      { test: /\.tsx?$/, loaders: ['awesome-typescript-loader?tsconfig=tsconfig.json&useBabel'], include: appDir },
     ]
   },
   tslint: {
