@@ -1,7 +1,9 @@
 # Webpack 2 awesome-typescript-test
  
 1.  `npm install`
+
     `typings install`
+    
     `npm run start`
     
 2. Open browser at [http://localhost:3334](http://localhost:3334)
