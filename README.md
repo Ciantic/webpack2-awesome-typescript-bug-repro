@@ -8,7 +8,7 @@
     
 2. Open browser at [http://localhost:3334](http://localhost:3334)
     
-3. Edit "App/Index.tsx"
+3. Edit "App/Index.tsx", so that output changes e.g. "Hello World 2"
 
 4. Notice error:
  
