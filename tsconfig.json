@@ -1,0 +1,16 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "target": "es6",
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "jsx": "react",
+        "outDir": "buildts"
+    },
+    "exclude": [
+        "node_modules",
+        "typings/main.d.ts",
+        "typings/main"
+    ]
+}

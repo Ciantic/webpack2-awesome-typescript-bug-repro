@@ -1,0 +1,10 @@
+node_modules/
+obj/
+build/
+typings/
+.vs/
+.awcache/
+.ntvs_analysis.dat
+*.log
+*.sln
+*.njsproj

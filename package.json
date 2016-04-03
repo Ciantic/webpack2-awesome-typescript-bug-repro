@@ -1,0 +1,20 @@
+{
+  "name": "webpack2-test",
+  "version": "1.0.0",
+  "description": "Just testing",
+  "scripts": {
+    "start": "node webpack.dev.server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "awesome-typescript-loader": "^0.17.0-rc.4",
+    "babel-core": "^6.7.4",
+    "webpack": "^2.1.0-beta.4",
+    "webpack-dev-server": "^2.0.0-beta"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8"
+  }
+}
