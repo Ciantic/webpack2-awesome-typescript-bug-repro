@@ -10,7 +10,8 @@
     
 3. Edit "App/Index.tsx"
 
-4. Notice error: 
+4. Notice error:
+ 
         npm run start
 
         > webpack2-test@1.0.0 start ...\webpack2-test
